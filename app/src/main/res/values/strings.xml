@@ -5,4 +5,10 @@
     <string name="choose">Сделай свой выбор</string>
     <string name="check_me">Чекни меня</string>
     <string name="Hello">Привет друг!</string>
+    <string name="text">Введите что-нибудь</string>
+    <string name="textpersonename">Введите Имя</string>
+    <string name="phone">Введите телефон</string>
+    <string name="number">Введите цифры</string>
+    <string name="pass">Введите Пароль</string>
+    <string name="mail">Введите Email</string>
 </resources>
