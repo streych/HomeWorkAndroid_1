@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Android_HomeWorke_1</string>
+    <string name="paste_text">Введтите текст</string>
+    <string name="click_me">Жмякай</string>
+    <string name="choose">Сделай свой выбор</string>
+    <string name="check_me">Чекни меня</string>
+    <string name="Hello">Привет друг!</string>
 </resources>
