@@ -13,7 +13,7 @@
         android:layout_weight="1"
         android:inputType="text"
         android:text="@string/text"
-        android:textSize="35sp" />
+        android:textSize="25sp" />
 
     <EditText
         android:layout_width="wrap_content"
@@ -21,7 +21,7 @@
         android:layout_weight="1"
         android:inputType="textPersonName"
         android:text="@string/textpersonename"
-        android:textSize="35sp" />
+        android:textSize="25sp" />
 
     <EditText
         android:layout_width="wrap_content"
@@ -29,14 +29,14 @@
         android:layout_weight="1"
         android:inputType="phone"
         android:text="@string/phone"
-        android:textSize="35sp" />
+        android:textSize="25sp" />
 
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:inputType="number"
         android:text="@string/number"
-        android:textSize="35sp" />
+        android:textSize="25sp" />
 
     <EditText
         android:layout_width="wrap_content"
@@ -44,7 +44,7 @@
         android:layout_weight="1"
         android:inputType="textPassword"
         android:text="@string/pass"
-        android:textSize="35sp" />
+        android:textSize="25sp" />
 
     <EditText
         android:layout_width="wrap_content"
@@ -52,6 +52,18 @@
         android:layout_weight="1"
         android:inputType="textEmailAddress"
         android:text="@string/mail"
-        android:textSize="35sp" />
+        android:textSize="25sp" />
+
+    <CalendarView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/back"
+        android:textSize="25sp"
+        android:onClick="onCLickBack"/>
 
 </LinearLayout>
